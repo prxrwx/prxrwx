@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kornkanok Jittranon
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science & Data Analysis
 - 📫 You can contact me at kornkanok.jitt@gmail.com
 
 <!---
